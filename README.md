@@ -1,5 +1,27 @@
 # 💫 About Me:
-Software Engineer Aspirant Currently enrolled in a Bachelor of Computer Applications (BCA) program at samart Vikaramaditya  University, Ujjain (2023-2026), possessing an impressive academic performance (CGPA: 8.75). Proficient in frontend development techniques like HTML, CSS, JavaScript, and React, along with basic programming languages like  java  and backend development<br><br>Proficiency in developing various web applications such as To-Do List, Social Network, and Expense Tracker, showcasing expertise in full-stack development. Enhancing problem-solving abilities by studying Data Structures and Algorithms, while delving into complex areas such as System Design, Artificial Intelligence, and Generative AI.<br><br>An enthusiastic learner who participates in hackathons and develops projects consistently, dedicated to creating scalable and user-oriented solutions and looking for opportunities to develop as a software engineer.
+## I'm Saurabh
+💻 **Aspiring Software Developer | AI & Full-Stack Developer**
+
+I'm focused on building strong foundations in **AI, Full-Stack Development, Data Structures & Algorithms, and Computer Science fundamentals**.
+
+###  What I'm Learning & Building
+
+*  **Artificial Intelligence & Machine Learning**
+*  **Full-Stack Web Development**
+*  **Data Structures & Algorithms**
+*  **Computer Science Core Subjects**
+*  **Real-World Projects & Problem Solving**
+
+###  My Goal
+
+To become a well-rounded software developer by combining **strong CS fundamentals, problem-solving skills, AI, and full-stack development** to build useful real-world products.
+
+###  My Approach
+
+**Learn → Build → Solve → Share → Improve**
+
+I’m documenting my journey on GitHub and continuously working to become a better developer every day. 🚀
+
 
 
 ## 🌐 Socials:
