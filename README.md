@@ -6,21 +6,17 @@ I'm focused on building strong foundations in **AI, Full-Stack Development, Data
 
 ###  What I'm Learning & Building
 
-*  **Artificial Intelligence & Machine Learning**
+* 
 *  **Full-Stack Web Development**
 *  **Data Structures & Algorithms**
 *  **Computer Science Core Subjects**
 *  **Real-World Projects & Problem Solving**
 
-###  My Goal
-
-To become a well-rounded software developer by combining **strong CS fundamentals, problem-solving skills, AI, and full-stack development** to build useful real-world products.
-
 ###  My Approach
 
 **Learn → Build → Solve → Share → Improve**
 
-I’m documenting my journey on GitHub and continuously working to become a better developer every day. 🚀
+I’m documenting my journey on GitHub and continuously working to become a better developer every day. 
 
 
 
