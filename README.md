@@ -2,11 +2,8 @@
 ## I'm Saurabh
 💻 **Aspiring Software Developer | AI & Full-Stack Developer**
 
-I'm focused on building strong foundations in **AI, Full-Stack Development, Data Structures & Algorithms, and Computer Science fundamentals**.
-
 ###  What I'm Learning & Building
 
-* 
 *  **Full-Stack Web Development**
 *  **Data Structures & Algorithms**
 *  **Computer Science Core Subjects**
